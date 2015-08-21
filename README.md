@@ -1,5 +1,7 @@
 Modal management
 ================
+See the live demo running [here](http://vinaygunnam.github.io/manage-modals/).
+
 Instructions
 ------------
 Development
